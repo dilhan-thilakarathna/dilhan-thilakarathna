@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilhan Thilakarathna</h1>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilhan-thilakarathna&theme=radical&rank=SSS" alt="dilhan-thilakarathna" />
-</p>
+
 
 <p align="left"> 
   <strong>Cloud Data & DevOps Specialist | BSc (Hons) Computer Science (1st Class)</strong> 🚀
@@ -9,10 +7,9 @@
 
 - 🎓 **First Class Honours** graduate in **BSc (Hons) Computer Science from Kingston University, UK**.
 - 📜 Holder of the **National Diploma in Technology (NDT) in IT from the University of Moratuwa**.
-- 🏗️ Transitioning from Data Analysis to **Cloud Data Systems and DevOps**, specializing in scalable infrastructure and automation.
+- 🏗️ Transitioning from Data Analysis toward **Cloud Data Systems and DevOps**, specializing in scalable infrastructure and automation.
 - 🛠️ Currently focusing on the **100 Days of DevOps** challenge and mastering **AWS & Terraform**.
 - 💻 Enthusiastic about **Infrastructure as Code (IaC)** and contributing to the global developer community.
-- 🧠 Passionate about building **high-availability MERN systems** and data-driven cloud architectures.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,13 +34,5 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="vite" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilhan-thilakarathna&show_icons=true&locale=en&layout=compact&theme=radical" alt="dilhan-thilakarathna" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilhan-thilakarathna&show_icons=true&locale=en&theme=radical" alt="dilhan-thilakarathna" />
-</p>
